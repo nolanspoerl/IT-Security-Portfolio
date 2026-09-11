@@ -1,0 +1,1 @@
+powershell.exe -File TeamViewer_Host_Install.ps1 -windowstyle hidden

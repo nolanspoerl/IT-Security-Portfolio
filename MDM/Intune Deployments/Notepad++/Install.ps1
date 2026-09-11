@@ -1,0 +1,1 @@
+Start-Process -Wait -FilePath "Installer.exe" -ArgumentList "/S" -PassThru

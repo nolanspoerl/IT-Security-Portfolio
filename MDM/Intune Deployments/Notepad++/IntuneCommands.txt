@@ -1,0 +1,5 @@
+Install: powershell -File Install.ps1
+Uninstall: powershell.exe -File Uninstall.ps1
+
+File Exists:
+C:\Program Files\Notepad++\readme.txt

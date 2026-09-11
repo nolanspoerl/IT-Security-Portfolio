@@ -1,0 +1,1 @@
+Disable-WindowsOptionalFeature -Online -FeatureName VirtualMachinePlatform -NoRestart

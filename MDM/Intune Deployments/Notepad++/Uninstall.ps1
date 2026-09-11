@@ -1,0 +1,1 @@
+Start-Process -Wait -FilePath "C:\Program Files\Notepad++\uninstall.exe" -ArgumentList "/S" -PassThru
