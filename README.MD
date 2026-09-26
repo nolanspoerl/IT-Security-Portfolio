@@ -63,7 +63,7 @@ Last but not least, nothing gets in, and nothing gets out (unless allowed, of co
 ## 📫 Let's Connect
 
 <p>
-  <a href="mailto:nolancspoerl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nolan@beachcitytech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/nolanspoerl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
