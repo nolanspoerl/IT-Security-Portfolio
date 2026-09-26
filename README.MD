@@ -49,22 +49,11 @@ Last but not least, nothing gets in, and nothing gets out (unless allowed, of co
 
 ---
 
-## 📂 Featured Projects
-
-> *Projects and scripts I've built to solve real IT problems — check the pinned repos below!*
-
-| Project | Description | Tech |
-|---|---|---|
-| 🔧 Coming Soon | PowerShell scripts for Intune automation | PowerShell, Graph API |
-| 🛡️ Coming Soon | Security hardening baselines & policies | Intune, Defender |
-| ☁️ Coming Soon | Azure & Entra ID administration guides | Azure, Entra ID |
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer |
 |---|---|
+| ✅ Identity and Access Administrator (SC-300) | Microsoft |
 | ✅ CompTIA A+ | CompTIA |
 | ✅ CompTIA Network+ | CompTIA |
 | ✅ CompTIA Security+ | CompTIA |
