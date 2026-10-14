@@ -5,13 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-SC-300-E82127?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA-A%2B-E82127?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-E82127?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-E82127?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/The%20Ohio%20State%20University-Graduate-BB0000?style=for-the-badge"/>
 </p>
-
 ---
 
 ## 👨‍💻 About Me
