@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-SC-300-E82127?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA-A%2B-E82127?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA-Network%2B-E82127?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-E82127?style=for-the-badge&logo=comptia&logoColor=white"/>
