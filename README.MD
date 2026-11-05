@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an IT Security Specialist with experience in modern endpoint management, cloud identity, and enterprise security. I focus on securing and managing Microsoft-centric environments — from zero-touch device deployments to identity governance and threat protection.
+I'm an IT Systems Engineer with experience in modern endpoint management, cloud identity, and enterprise security. I focus on securing and managing Microsoft-centric environments — from zero-touch device deployments to identity governance and threat protection.
 
 When it comes to IT, I pride myself on advanced troubleshooting knowledge and expertise, executing with elite precision. 
 Additionally, I engineer organization-level processes that transform how teams work through secure, scalable IT solutions.
