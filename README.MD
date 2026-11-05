@@ -1,7 +1,7 @@
-<h1 align="center">Nolan Spoerl - 💻 IT & Cybersecurity 🛡️</h1>
+<h1 align="center">Nolan Spoerl - 💻 IT, Systems, and Security Engineering 🛡️</h1>
 
 <p align="center">
-  <b>IT Security Specialist</b> · Microsoft 365 · Intune · Azure · Entra ID · Autopilot · Defender
+  <b>IT Systems Engineer</b> · Microsoft 365 · Intune · Azure · Entra ID · Autopilot · Defender
 </p>
 
 <p align="center">
