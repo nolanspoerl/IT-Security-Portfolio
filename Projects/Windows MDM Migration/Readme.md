@@ -39,7 +39,6 @@ No IT visit, re-imaging or profile copy is needed.
 | `startMigrate.ps1` | Entry point and main migration logic |
 | `reboot.ps1` / `reboot.xml` | Profile handover script and its boot-time scheduled task |
 | `postMigrate.ps1` / `postMigrate.xml` | Final configuration script and its sign-in scheduled task |
-| `userFinder.xml` | Fallback task that prompts the user to sign in if their account can't be matched automatically |
 | `config.example.json` | Template for your settings. Copy it to `config.json` |
 
 ### Not included (supply your own)
